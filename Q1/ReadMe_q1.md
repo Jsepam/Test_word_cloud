@@ -1,0 +1,1 @@
+This first question solves a word counter within a text developed with basic functions with Python code
