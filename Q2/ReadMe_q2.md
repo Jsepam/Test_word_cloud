@@ -1,0 +1,1 @@
+We use this second question to make the code of question 1 a little improved, since we use the collections library to save a little code and be more efficient
